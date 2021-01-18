@@ -1,11 +1,9 @@
-# Loja de Roupa
+# New Company
 Projeto em Java, Angular, o intuíto é criar uma aplicação onde os será possivel gerenciar uma Loja de Roupas, onde os usuários irão cadastrar clientes e mercadorias, além de gerar relatórios.</br>
 
 # Getting Startd
-Para rodar este projeto em seu localhost, você deverá ter uma IDE a sua escolha, este deverá ter suporte para as tecnologias Java e Angular</br>
 
-# Prerequisites
-É necessário ter um banco de dados MySQL, para poder armazenar os dados gerados pelo sistema.</br>
+# Pre-requisites
 
 # Authors
 Mauri Vinicius - Trabalho inicial</br>
